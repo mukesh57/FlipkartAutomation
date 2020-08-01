@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-08-01T10:50:01 IST" name="Default suite" finished-at="2020-08-01T10:51:17 IST" duration-ms="76614">
+    <groups>
+    </groups>
+    <test started-at="2020-08-01T10:50:01 IST" name="Default test" finished-at="2020-08-01T10:51:17 IST" duration-ms="76614">
+      <class name="Flipkart.test">
+        <test-method is-config="true" signature="LoginPageNavigation()[pri:0, instance:Flipkart.test@2805c96b]" started-at="2020-08-01T10:50:01 IST" name="LoginPageNavigation" finished-at="2020-08-01T10:51:08 IST" duration-ms="66913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageNavigation -->
+        <test-method signature="LoginTest()[pri:0, instance:Flipkart.test@2805c96b]" started-at="2020-08-01T10:51:08 IST" name="LoginTest" finished-at="2020-08-01T10:51:17 IST" duration-ms="9460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+      </class> <!-- Flipkart.test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
